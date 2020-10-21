@@ -20,5 +20,5 @@
 ## Libraries
 
 * Foursquare
-* SQLite / Flask / Jinja2 / Bokeh
+* SQLite / Flask / Jinja2 / Bokeh. [Link](http:)
 * JSON
