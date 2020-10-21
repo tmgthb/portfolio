@@ -1,6 +1,7 @@
-## My portfolio / Projects
+# My portfolio / Projects
 
-# Algorithms
+## Algorithms
+
 ** Neural network - Cat Images classification
 ** Deep neural network (DNN) - Cat images classification
 ** Convolutional neural Network (CNN) - Cat images classification
@@ -16,7 +17,8 @@
 ** Linear regression (LightGBM) - "Housing prices" estimator. [Link](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
 ** Linear regression (XGBoost) - "Housing prices" estimator. [Link](https://www.kaggle.com/tmkggl/real-estate-competition-with-xgboost)
 
-# Libraries
+## Libraries
+
 ** Foursquare
 ** SQLite / Flask / Jinja2 / Bokeh
 ** JSON
