@@ -1,4 +1,5 @@
 # My portfolio / Projects
+The list includes algorithms / libraries / concepts, which I posses experience. The links attached include examples of the Python code.
 
 ## Algorithms
 
@@ -22,3 +23,9 @@
 * Foursquare
 * SQLite / Flask / Jinja2 / Bokeh. [Link](http:)
 * JSON
+
+
+## Concepts
+
+* NLP - Tokenization. [Link](example)
+*
