@@ -1,4 +1,4 @@
-# My portfolio / Projects
+# My portfolio / projects
 The list of experience is grouped into: algorithms, python libraries & ML concepts. 
 
 ## Algorithms
