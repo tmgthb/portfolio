@@ -1,5 +1,5 @@
 # My portfolio / Projects
-The list includes algorithms / libraries / concepts, which I posses experience. The links attached include examples of the Python code.
+The list of experience is grouped into: algorithms, python libraries & ML concepts. 
 
 ## Algorithms
 
