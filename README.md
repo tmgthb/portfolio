@@ -17,10 +17,17 @@ The list includes algorithms / libraries / concepts, which I posses experience. 
 * Convolutional neural network - "Digit" image recognizer. [Link - Pytorch](https://www.kaggle.com/tmkggl/pytorch-cnn-digit-recognizer)
 * Linear regression (LightGBM) - "Housing prices" estimator. [Link](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
 * Linear regression (XGBoost) - "Housing prices" estimator. [Link](https://www.kaggle.com/tmkggl/real-estate-competition-with-xgboost)
+* SVM - "Human cell"-classification
+* k-means clustering - Customer segmentation
+* Density based(DBSCAN) clustering - "Weather stations" segmentation
+* Recommender System as Content based - "Movies"
+* Recommender System as Collaborative Filtering - "Movies"
+* KNN/Decision Tree/SVM/Logistic regression - "Loan application"
+* k-means clustering with Foursquare - Customer segmentation
 
 ## Libraries
 
-* Foursquare
+* Foursquare-location data with k-means clustering - Neighborhood segmentation 
 * SQLite / Flask / Jinja2 / Bokeh. [Link](http:)
 * JSON
 
