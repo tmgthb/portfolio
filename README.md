@@ -25,20 +25,19 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 * KNN/Decision Tree/SVM/Logistic regression - "Loan application"
 * k-means clustering with Foursquare - Customer segmentation
 
+## Concepts
+
+* NLP research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+* NLP - Tokenization. [(Link)](example)
+
 ## Libraries
 
 * Foursquare-location data with k-means clustering - Neighborhood segmentation 
 * SQLite / Flask / Jinja2 / Bokeh. [(Link)](http:)
 * JSON. [(Link)](example)
+* Flask. [(Link)](example)
 * Visualization - Bokeh. [(Link)](example)
 * Visualization - Seaborn. [(Link)](example)
 * Visualization - Plotly. [(Link)](example)
 * Visualization - Matplotlib. [(Link)](example)
-
-
-
-## Concepts
-
-* NLP research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-* NLP - Tokenization. [(Link)](example)
 
