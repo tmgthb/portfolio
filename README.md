@@ -13,10 +13,10 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 * Neural network (Embedding-LSTM) - Text to emoji
 * Neural network (Bidirectional LTMS-Attention-Bidirectional LTMS) - Machine translation
 * Neural network (CNN-GRU) - Trigger word detection
-* Convolutional neural network - "Digit" image recognizer. [(Link. Tensorflow version)](https://www.kaggle.com/tmkggl/tensorflow-cnn-hand-digit-recognizer)
-* Convolutional neural network - "Digit" image recognizer. [(Link. Pytorch version)](https://www.kaggle.com/tmkggl/pytorch-cnn-digit-recognizer)
-* Linear regression (LightGBM) - "Housing prices" estimator. [(Link.)](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
-* Linear regression (XGBoost) - "Housing prices" estimator. [(Link.)](https://www.kaggle.com/tmkggl/real-estate-competition-with-xgboost)
+* Convolutional neural network - "Digit" image recognizer. Tensorflow version. [(Link)](https://www.kaggle.com/tmkggl/tensorflow-cnn-hand-digit-recognizer)
+* Convolutional neural network - "Digit" image recognizer. Pytorch version. [(Link)](https://www.kaggle.com/tmkggl/pytorch-cnn-digit-recognizer)
+* Linear regression (LightGBM) - "Housing prices" estimator. [(Link)](https://www.kaggle.com/tmkggl/lightgbm-model-crossvalidation)
+* Linear regression (XGBoost) - "Housing prices" estimator.  [(Link)](https://www.kaggle.com/tmkggl/real-estate-competition-with-xgboost)
 * SVM - "Human cell"-classification
 * k-means clustering - Customer segmentation
 * Density based(DBSCAN) clustering - "Weather stations" segmentation
