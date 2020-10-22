@@ -27,8 +27,9 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 
 ## Concepts
 
-* NLP research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+* NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
 * NLP - Tokenization. [(Link)](example)
+
 
 ## Libraries
 
@@ -40,4 +41,15 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 * Visualization - Seaborn. [(Link)](example)
 * Visualization - Plotly. [(Link)](example)
 * Visualization - Matplotlib. [(Link)](example)
-
+* Folium
+* Gensim
+* Jinja2
+* Keras
+* Tensorflow
+* Pytorch
+* LightGBM
+* NLTK
+* Pomegranate
+* regex
+* xgboost
+* Geopy
