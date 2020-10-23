@@ -34,14 +34,13 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 ## Libraries
 
 * Foursquare-location data with k-means clustering - Neighborhood segmentation 
-* JSON. [(Link)](example)
-* Flask. [(Link)](example)
-* Jinja2. [(Link)](example)
-* SQLite. [(Link)](example)
-* Visualization - Bokeh. [(Link)](example)
-* Visualization - Seaborn. [(Link)](example)
-* Visualization - Plotly. [(Link)](example)
-* Visualization - Matplotlib. [(Link)](example)
+* JSON. 
+* Flask. 
+* Jinja2.
+* SQLite.
+* Visualization - Bokeh. 
+* Visualization - Seaborn.
+* Visualization - Matplotlib. 
 * Folium
 * Gensim
 * Jinja2
