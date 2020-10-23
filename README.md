@@ -28,7 +28,7 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 ## Concepts
 
 * NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-* NLP - Tokenization. [(Link)](example)
+* NLP - Tokenization.
 
 
 ## Libraries
