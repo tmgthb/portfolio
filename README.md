@@ -34,7 +34,7 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 ## Libraries
 
 * Foursquare-location data with k-means clustering - Neighborhood segmentation 
-* (JSON)](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
+* [(JSON)](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
 * Flask. 
 * Jinja2.
 * SQLite.
