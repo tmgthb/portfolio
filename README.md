@@ -25,11 +25,14 @@ The list of experience is grouped into: algorithms, python libraries & ML concep
 * KNN/Decision Tree/SVM/Logistic regression - "Loan application"
 * k-means clustering with Foursquare - Customer segmentation
 
+## Applications
+* [COVID Daily Statistics](https://share.streamlit.io/tmgthb/covid/main/covid.py)
+* [GPT-Neo - Text generator](https://share.streamlit.io/tmgthb/gptneo/main/gptneo.py)
+
 ## Concepts
 
 * NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
 * NLP - Tokenization.
-
 
 ## Libraries
 
