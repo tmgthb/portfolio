@@ -1,0 +1,13 @@
+{ "weather": [
+        {
+            "city": "Madrid",
+            "temperature": "30",
+            "description": "cloudy"
+        },
+        {
+            "city": "Sevilla",
+            "temperature": "32",
+            "description": "sunny"
+        }
+    ]
+                }
