@@ -54,7 +54,9 @@ The list of experience is grouped into: [algorithms](https://github.com/tmgthb/p
 
 ## Concepts
 
-* NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-* NLP - Tokenization.
+[My blog](https://medium.com/@tmmtt/) is available in Medium. My current passion is within Natural Language processing. 
+
+* NLP research papers and benchmarks [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+
 
 
