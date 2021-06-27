@@ -1,6 +1,5 @@
-# My project portfolio
-
-The list of experience is grouped into: algorithms, python libraries & ML concepts. 
+# My experience
+The list of experience is grouped into: algorithms, applications, Python packages used and Machine learning concepts. 
 
 ## Algorithms
 
