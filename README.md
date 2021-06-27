@@ -1,5 +1,5 @@
 # My experience
-The list of experience is grouped into: [algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), [applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), [Python packages](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) used and [Machine learning concepts](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts). 
+The list of experience is grouped into: [algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), [applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), [Python packages](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) and [Machine learning concepts](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts). 
 
 ## Algorithms
 
