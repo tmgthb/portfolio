@@ -1,5 +1,5 @@
 # My experience
-The list of experience is grouped into: [algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), [applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), Python packages used and Machine learning concepts. 
+The list of experience is grouped into: [algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), [applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), [Python packages](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) used and [Machine learning concepts](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts). 
 
 ## Algorithms
 
@@ -29,11 +29,6 @@ The list of experience is grouped into: [algorithms](https://github.com/tmgthb/p
 * [COVID Daily Statistics](https://share.streamlit.io/tmgthb/covid/main/covid.py)
 * [GPT-Neo - Text generator](https://share.streamlit.io/tmgthb/gptneo/main/gptneo.py)
 
-## Concepts
-
-* NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-* NLP - Tokenization.
-
 ## Libraries
 
 * Foursquare-location data with k-means clustering - Neighborhood segmentation 
@@ -56,3 +51,10 @@ The list of experience is grouped into: [algorithms](https://github.com/tmgthb/p
 * regex
 * xgboost
 * Geopy
+
+## Concepts
+
+* NLP - List of research papers. [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+* NLP - Tokenization.
+
+
