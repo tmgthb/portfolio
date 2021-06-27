@@ -1,5 +1,5 @@
 # My experience
-The list of experience is grouped into: algorithms, applications, Python packages used and Machine learning concepts. 
+The list of experience is grouped into: [algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), [applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), Python packages used and Machine learning concepts. 
 
 ## Algorithms
 
