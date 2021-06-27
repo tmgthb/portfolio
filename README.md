@@ -31,32 +31,17 @@ The list of experience is grouped into: [algorithms](https://github.com/tmgthb/p
 
 ## Libraries
 
-* Foursquare-location data with k-means clustering - Neighborhood segmentation 
-* [JSON - example](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
-* Flask. 
-* Jinja2.
-* SQLite.
-* Visualization - Bokeh. 
-* Visualization - Seaborn.
-* Visualization - Matplotlib. 
-* Folium
-* Gensim
-* Jinja2
-* Keras
-* Tensorflow
-* Pytorch
-* LightGBM
-* NLTK
-* Pomegranate
-* regex
-* xgboost
-* Geopy
+* MLOps: 
+* Natural Language Processing: Open AI API, NLTK, regex
+* Deep learning: Tensorflow/Keras, Pytorch
+* Machine learning xgboost, LightGBM,
+* Flask [example](https://github.com/tmgthb/flask) and integrating it with **SQLite**, **Jinja2** and **Bokeh**-visualizations. 
+* Visualization libraries experience: **Dash**, **Seaborn**, **Matplotlib**, **Bokeh** 
+* Data manipulation: Numpy, Pandas, [JSON - example](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
+* Other libraries: Folium, Geopy, Foursquare-location data with k-means clustering - Neighborhood segmentation 
 
 ## Concepts
 
 [My blog](https://medium.com/@tmmtt/) is available in Medium. My current passion is within Natural Language processing. 
 
 * NLP research papers and benchmarks [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-
-
-
