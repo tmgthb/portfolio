@@ -52,4 +52,4 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 
 [My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
 
-* NLP research papers and benchmarks [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+* 22.04.2020 - "Natural Language Processing research, benchmarks and models" [(Read)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
