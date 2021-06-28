@@ -31,13 +31,14 @@ The list is to give an idea of the type of algorithms, which I have worked.
 * k-means clustering with Foursquare - Customer segmentation
 
 ## Applications
+I add here few examples of sample applications, which I have worked and are available publicly.
 * [GPT-3 - Text generator](https://share.streamlit.io/tmgthb/gpt-3/main/gpt3.py)
 * [GPT-Neo - Text generator](https://share.streamlit.io/tmgthb/gptneo/main/gptneo.py)
 * [COVID Daily Statistics](https://share.streamlit.io/tmgthb/covid/main/covid.py)
 
 
 ## Libraries
-
+The Python library list is to offer an idea of the type of Python libraries & APIs, which I have worked. 
 * MLOps: 
 * Natural Language Processing: Open AI API, NLTK, regex
 * Deep learning: Tensorflow/Keras, Pytorch
@@ -49,6 +50,6 @@ The list is to give an idea of the type of algorithms, which I have worked.
 
 ## Concepts
 
-[My blog](https://medium.com/@tmmtt/) is available in Medium. My current passion is within Natural Language processing. 
+[My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
 
 * NLP research papers and benchmarks [(Link)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
