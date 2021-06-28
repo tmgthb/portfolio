@@ -53,3 +53,13 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 [My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
 
 * 22.04.2020 - "Natural Language Processing research, benchmarks and models" [(Read)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
+* 06.10.2020 - [Perception in NLP](https://medium.com/@tmmtt/perception-in-nlp-822cb157ee0f)
+* [Image Recognition](https://medium.com/@tmmtt/what-makes-an-image-recognizer-acf53feb707c)
+* [Bokeh](https://medium.com/@tmmtt/bokeh-bf196884396a)
+* [Learning Methodologies for Data Science](https://medium.com/@tmmtt/learning-methodologies-for-data-science-b6094fe7ddc9)
+* [Do I need a database?](https://medium.com/@tmmtt/do-i-need-a-database-f74c936bcc76)
+* [Python Packages: SQLite](https://medium.com/@tmmtt/sqlite-77c9f6efb2e8)
+* [Python Packages: Flask](https://medium.com/@tmmtt/python-packages-flask-e315ebe3c38e)
+* [Curated Data Science resources](https://medium.com/@tmmtt/curated-data-science-resources-c12476de006f)
+* [JSON](https://medium.com/@tmmtt/python-packages-json-c70a07fd6eb5)
+* 15.07.2019 - [Foursquare Places](https://medium.com/@tmmtt/python-packages-foursquare-places-2dbbf370dd4c)
