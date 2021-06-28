@@ -26,8 +26,10 @@ The list of experience is grouped into: [algorithms](https://github.com/tmgthb/p
 * k-means clustering with Foursquare - Customer segmentation
 
 ## Applications
-* [COVID Daily Statistics](https://share.streamlit.io/tmgthb/covid/main/covid.py)
+* [GPT-3 - Text generator](https://share.streamlit.io/tmgthb/gpt-3/main/gpt3.py)
 * [GPT-Neo - Text generator](https://share.streamlit.io/tmgthb/gptneo/main/gptneo.py)
+* [COVID Daily Statistics](https://share.streamlit.io/tmgthb/covid/main/covid.py)
+
 
 ## Libraries
 
