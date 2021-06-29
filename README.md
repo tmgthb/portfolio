@@ -1,8 +1,8 @@
 # My experience
 
-* [Algorithms,](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms) 
-* [Applications,](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications) 
-* [Python libraries,](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) 
+* [Algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms) 
+* [Applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications) 
+* [Python libraries](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) 
 * [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts) 
 
 ## Algorithms
