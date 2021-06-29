@@ -51,13 +51,12 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 
 ## Conceptual knowledge
 
-[My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
+The below articles are available in Medium.
 
-* 06.10.2020 - "Perception in NLP" [Read in Medium](https://tmmtt.medium.com/perception-in-nlp-822cb157ee0f)
-* 22.04.2020 - "Natural Language Processing research, benchmarks and models" [(Read)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
-* 06.10.2020 - [Perception in NLP](https://medium.com/@tmmtt/perception-in-nlp-822cb157ee0f)
-* [Image Recognition](https://medium.com/@tmmtt/what-makes-an-image-recognizer-acf53feb707c)
-* [Bokeh](https://medium.com/@tmmtt/bokeh-bf196884396a)
+* 06.10.2020 - "[Perception in NLP](https://tmmtt.medium.com/perception-in-nlp-822cb157ee0f)" 
+* 22.04.2020 - "[Natural Language Processing research, benchmarks and models](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)"
+* 20.04.2020 - "[Image recognition](https://tmmtt.medium.com/what-makes-an-image-recognizer-acf53feb707c)"
+* 23.12.2019 - "[Bokeh](https://medium.com/@tmmtt/bokeh-bf196884396a)"
 * [Learning Methodologies for Data Science](https://medium.com/@tmmtt/learning-methodologies-for-data-science-b6094fe7ddc9)
 * [Do I need a database?](https://medium.com/@tmmtt/do-i-need-a-database-f74c936bcc76)
 * [Python Packages: SQLite](https://medium.com/@tmmtt/sqlite-77c9f6efb2e8)
