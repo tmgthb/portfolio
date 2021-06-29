@@ -3,7 +3,7 @@
 * [Algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms) 
 * [Applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications) 
 * [Python libraries & APIs](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) 
-* [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Conceptual) 
+* [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#conceptual-knowledge) 
 
 ## Algorithms
 
