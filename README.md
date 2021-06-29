@@ -53,6 +53,7 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 
 [My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
 
+* 06.10.2020 - "Perception in NLP" [Read in Medium](https://tmmtt.medium.com/perception-in-nlp-822cb157ee0f)
 * 22.04.2020 - "Natural Language Processing research, benchmarks and models" [(Read)](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)
 * 06.10.2020 - [Perception in NLP](https://medium.com/@tmmtt/perception-in-nlp-822cb157ee0f)
 * [Image Recognition](https://medium.com/@tmmtt/what-makes-an-image-recognizer-acf53feb707c)
