@@ -53,6 +53,7 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 
 The below articles are available in Medium. [This](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110) entry is especially useful, in case you are interested in the latest NLP research.
 
+* 30.06.2021 - "[NLP project](https://tmmtt.medium.com/nlp-project-1f62424f162e)"
 * 06.10.2020 - "[Perception in NLP](https://tmmtt.medium.com/perception-in-nlp-822cb157ee0f)" 
 * 22.04.2020 - "[Natural Language Processing research, benchmarks and models](https://medium.com/@tmmtt/natural-language-processing-nlp-dc2c1d8d4110)"
 * 20.04.2020 - "[Image recognition](https://tmmtt.medium.com/what-makes-an-image-recognizer-acf53feb707c)"
