@@ -6,6 +6,7 @@
 * [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts) 
 
 ## Algorithms
+
 The list is to give an idea of the type of algorithms, which I have worked. 
 
 * Neural network - Cat Images classification
@@ -39,7 +40,7 @@ I add here few examples of sample applications, which I have worked and are avai
 
 ## Libraries
 The Python library list is to offer an idea of the type of Python libraries & APIs, which I have worked. 
-* MLOps: 
+* MLOps: MLflow
 * Natural Language Processing: Open AI API, NLTK, regex
 * Deep learning: Tensorflow/Keras, Pytorch
 * Machine learning xgboost, LightGBM,
