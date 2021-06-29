@@ -3,7 +3,7 @@
 * [Algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms) 
 * [Applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications) 
 * [Python libraries & APIs](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) 
-* [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts) 
+* [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Conceptual) 
 
 ## Algorithms
 
@@ -49,7 +49,7 @@ The Python library list is to offer an idea of the type of Python libraries & AP
 * Data manipulation: Numpy, Pandas, [JSON - example](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
 * Other libraries: Folium, Geopy, Foursquare-location data with k-means clustering - Neighborhood segmentation 
 
-## Concepts
+## Conceptual knowledge
 
 [My blog](https://medium.com/@tmmtt/) is available in Medium platform. I plan to write more and in the profile page you can find the complete list of my entries. 
 
