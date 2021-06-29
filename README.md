@@ -1,9 +1,9 @@
 # My experience
-The list of experience is grouped into: 
-* [ML Algorithms](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms), 
-* [Applications](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications), 
-* [Python packages](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) and 
-* [Machine learning concepts](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts). 
+
+* [Algorithms,](https://github.com/tmgthb/portfolio/blob/main/README.md#algorithms) 
+* [Applications,](https://github.com/tmgthb/portfolio/blob/main/README.md#Applications) 
+* [Python libraries,](https://github.com/tmgthb/portfolio/blob/main/README.md#Libraries) 
+* [Conceptual knowledge](https://github.com/tmgthb/portfolio/blob/main/README.md#Concepts) 
 
 ## Algorithms
 The list is to give an idea of the type of algorithms, which I have worked. 
