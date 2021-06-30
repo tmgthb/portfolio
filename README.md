@@ -41,13 +41,13 @@ I add here few examples of sample applications, which I have worked and are avai
 
 
 ## Libraries
-The Python library list is to offer an idea of the type of Python libraries & APIs, which I have worked. 
+
+* NLP: Open AI API, HuggingFace, SpaCy, NLTK, regex
 * MLOps: MLflow
-* Natural Language Processing: Open AI API, NLTK, regex
 * Deep learning: Tensorflow/Keras, Pytorch
-* Machine learning xgboost, LightGBM,
-* Flask [example](https://github.com/tmgthb/flask) and integrating it with **SQLite**, **Jinja2** and **Bokeh**-visualizations. 
+* xgboost, LightGBM
 * Visualization libraries experience: **Dash**, **Seaborn**, **Matplotlib**, **Bokeh** 
+* Web frameworks: * Flask [example](https://github.com/tmgthb/flask) and integrating it with **SQLite**, **Jinja2** and **Bokeh**-visualizations. 
 * Data manipulation: Numpy, Pandas, [JSON - example](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
 * Other libraries: Folium, Geopy, Foursquare-location data with k-means clustering - Neighborhood segmentation 
 
