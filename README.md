@@ -11,6 +11,8 @@
 
 The list is to give an idea of the type of algorithms, which I have worked. 
 
+### NLP
+
 * Neural network - Cat Images classification
 * Deep neural network (DNN) - Cat images classification
 * Convolutional neural Network (CNN) - Cat images classification
