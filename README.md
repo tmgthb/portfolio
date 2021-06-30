@@ -60,7 +60,7 @@ I add here few examples of sample applications, which I have worked and are avai
 * NLP: Open AI API, HuggingFace, SpaCy, NLTK, regex
 * MLOps: MLflow
 * Deep learning: Tensorflow/Keras, Pytorch
-* xgboost, LightGBM
+* Xgboost, LightGBM
 * Visualization libraries experience: **Dash**, **Seaborn**, **Matplotlib**, **Bokeh** 
 * Web frameworks: * Flask [example](https://github.com/tmgthb/flask) and integrating it with **SQLite**, **Jinja2** and **Bokeh**-visualizations. 
 * Data manipulation: Numpy, Pandas, [JSON - example](https://github.com/tmgthb/portfolio/blob/main/json/json_example.py)
